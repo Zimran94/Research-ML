@@ -1,0 +1,7 @@
+{
+  "chroma_dir": "/content/drive/MyDrive/HNDResearch/chroma_db",
+  "collection_name": "fashion_lemmata",
+  "embed_model": "all-MiniLM-L6-v2",
+  "reranker": "cross-encoder/ms-marco-MiniLM-L-6-v2",
+  "top_k": 8
+}
